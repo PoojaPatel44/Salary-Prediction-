@@ -134,4 +134,8 @@ Every row has a unique JOB-ID, there is a column and COMPANY-ID which is the com
 2. Identify the most influencial feature
 
 
+<img src = "Images/FeatureImportance.JPG" width = 500/>
+
+* The most important feature to predict salary is **Job Type**
+* The least import feature to predict salary is **Degree Type**
 
